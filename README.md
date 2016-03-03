@@ -1,1 +1,2 @@
-# JavaScript-Dom-
+# Dom-Scripting    some practice codes when learning Dom-Scripting
+
